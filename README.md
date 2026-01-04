@@ -1,4 +1,4 @@
-# 🧠 Intelligent Complaint Analysis for Financial Services (CrediTrust)
+#  Intelligent Complaint Analysis for Financial Services (CrediTrust)
 
 ### Transforming Raw Customer Feedback into Strategic Insights
 
@@ -8,7 +8,7 @@ internal teams to extract insights from large-scale customer complaints in minut
 
 ---
 
-## 🎯 Business Context & KPIs
+##  Business Context & KPIs
 
 **Problem:** Manual complaint analysis across Credit Cards, Personal Loans, Savings Accounts,
 and Money Transfers is slow and error-prone.
@@ -21,7 +21,7 @@ and Money Transfers is slow and error-prone.
 
 ---
 
-## 🏗️ RAG System Architecture
+##  RAG System Architecture
 
 1. Data Ingestion & Cleaning (Task 1)
 2. Vector Indexing with Embeddings (Task 2)
@@ -30,9 +30,9 @@ and Money Transfers is slow and error-prone.
 
 ---
 
-## 📁 Full Project Folder Structure
+##  Full Project Folder Structure
 
-## 📁 Full Project Folder Structure
+##  Full Project Folder Structure
 
 ````text
 rag-complaint-chatbot/
@@ -93,7 +93,7 @@ rag-complaint-chatbot/
 ├── .gitignore                        # Ignored files & directories
 └── README.md                         # Project documentation
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ```bash
 git clone https://github.com/your-username/rag-complaint-chatbot.git
@@ -117,7 +117,7 @@ python app.py
 
 ---
 
-## 🏆 Key Technical Choices
+##  Key Technical Choices
 
 | Component  | Choice           | Reason                 |
 | ---------- | ---------------- | ---------------------- |
@@ -128,6 +128,6 @@ python app.py
 
 ---
 
-## 📜 License
+##  License
 
 Educational and internal-use only.
