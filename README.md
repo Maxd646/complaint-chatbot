@@ -1,4 +1,4 @@
-#  Intelligent Complaint Analysis for Financial Services (CrediTrust)
+# Intelligent Complaint Analysis for Financial Services (CrediTrust)
 
 ### Transforming Raw Customer Feedback into Strategic Insights
 
@@ -8,7 +8,7 @@ internal teams to extract insights from large-scale customer complaints in minut
 
 ---
 
-##  Business Context & KPIs
+## Business Context & KPIs
 
 **Problem:** Manual complaint analysis across Credit Cards, Personal Loans, Savings Accounts,
 and Money Transfers is slow and error-prone.
@@ -21,18 +21,27 @@ and Money Transfers is slow and error-prone.
 
 ---
 
-##  RAG System Architecture
+## RAG System Architecture
 
 1. Data Ingestion & Cleaning (Task 1)
+# Data Preprocessing Pipeline
+![alt text](image.png)
+
 2. Vector Indexing with Embeddings (Task 2)
+# Vector Store Construction
+![alt text](image-1.png)
 3. Semantic Retrieval (Task 3)
+![alt text](image-2.png)
 4. Grounded Answer Generation with LLMs (Task 4)
+![alt text](image-3.png)
+5. Code-Level
+![alt text](image-4.png)
 
 ---
 
-##  Full Project Folder Structure
+## Full Project Folder Structure
 
-##  Full Project Folder Structure
+## Full Project Folder Structure
 
 ````text
 rag-complaint-chatbot/
