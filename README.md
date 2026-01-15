@@ -126,7 +126,7 @@ python app.py
 
 ---
 
-## Key Technical Choices
+##  Key Technical Choices
 
 | Component  | Choice           | Reason                 |
 | ---------- | ---------------- | ---------------------- |
@@ -137,6 +137,6 @@ python app.py
 
 ---
 
-## License
+##  License
 
 Educational and internal-use only.
